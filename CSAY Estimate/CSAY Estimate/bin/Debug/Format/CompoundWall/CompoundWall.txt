@@ -1,0 +1,54 @@
+S.N	Description of works	No	Length	Breadth	Height	Quantity	Unit	Remarks
+1	General							
+1.1	Preparation and installation of project information board showing all details of the project on a 5'*6' steel plate board with steel stand post. (Sample attached in special provision)							
+	Total Information board						Nos	
+								
+1.2	Lab test							
+	Total 						Job	
+								
+2	EARTHWORK							
+2.1	Excavation in roadway,drain and foundation for gabion and dry wall for ordinary soil							
+	Column Foundation							
+	Wall Foundation							
+	Total Earth work						Cum	
+								
+2.2	Filling with ordinary soils in 15cm layers & compaction without sprinkling water							
+	2/3 rd of E/W							
+	Total Earth Filling						Cum	
+								
+3	CONCRETE WORK							
+3.1	M15 ( 1:2:4 mix) PCC work in foundation ( Including form works)							
+	PCC for Footing							
+	PCC for wall							
+	Coping							
+	Total P.C.C. work (1:2:4)						Cum	
+								
+3.2	M20 ( 1:1.5:3 mix) RCC work in foundation ( Including form works)							
+	Column Foundation base (Rectangular)							
+	Slope part (Trapezoidal)							
+	Tie beam							
+	Column							
+	Total R.C.C. work (1:1.5:3)						Cum	
+								
+3.3	Reinforcement for RCC work. It includes procuring steels, its bending,placing, binding and fixing in position as shown on the drawings and as directed by the engineer. 							
+	As per attached sheet							
+	Total Reinforcement						Kg	
+								
+4	MASONRY WORK							
+4.1	Filling by stone in foundation (Dry stone Soling)                                   							
+	Column Foundation							
+	Wall Foundation							
+	Total Stone Soling						Cum	
+								
+4.2	1st class Brick masonary works (1:6) below Tie beam							
+	Wall							
+	Total Brick work 1:6 						Cum	
+								
+4.3	1st class Brick masonary works (1:4) above Tie beam                							
+	Wall							
+	Total Brick work 1:4 						Cum	
+								
+5	Metal Work							
+5.1	Supplying and Fixing of M.S. Angle over compound wall							
+	size (50x50x3)mm							
+	Total 						Kg	

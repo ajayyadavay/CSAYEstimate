@@ -1,0 +1,45 @@
+private void ImportStationRecordcsvToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int i, CsvFileCount = 0;
+                string FolderPath = TxtStationRecordCsvFolderPath.Text;
+                int T_St = Convert.ToInt32(TxtNoOfStation.Text);
+
+                string[] filePaths = Directory.GetFiles(FolderPath + "\\", "*.csv", SearchOption.AllDirectories);
+
+                foreach (string files in filePaths)
+                {
+                    CsvFileCount++;
+                    if (CsvFileCount <= 1)
+                    {
+                        string[] lines = System.IO.File.ReadAllLines(files);
+
+                        for (i = 1; i <= T_St; i++) //row; i=0 is header in *.csv file
+                        {
+                            string[] rowdata = lines[i].Split(',');
+                            for (int onecolindex = 0; onecolindex < 5; onecolindex++) // 5 = station, wlatitude, wlongitude, welev, rain_yrs
+                            {
+                                dataGridViewStation.Rows[i - 1].Cells[onecolindex + 1].Value = rowdata[onecolindex];
+                            }
+                        }
+                    }
+                }
+                //MessageBox.Show("Import Completed Successfully From .CSV file");
+                TxtLog.AppendText(DateTime.Now.ToString("hh:mm:ss") + " ==>  Station Record import Completed Successfully From .csv");
+                TxtLog.AppendText(Environment.NewLine);
+                TxtLog.AppendText("Number of stations imported  = " + T_St.ToString());
+                TxtLog.AppendText(Environment.NewLine);
+                TxtLog.AppendText("-------------------------------------------------------------------------------");
+                TxtLog.AppendText(Environment.NewLine);
+            }
+            catch
+            {
+
+            }
+            
+        }
+
+
+
+string[] BudgetTypeList = System.IO.File.ReadAllLines(@".\ComboBoxList\BudgetType.txt");

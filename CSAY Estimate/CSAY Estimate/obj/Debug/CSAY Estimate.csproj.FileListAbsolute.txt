@@ -1,0 +1,12 @@
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\bin\Debug\CSAY Estimate.exe.config
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\bin\Debug\CSAY Estimate.exe
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\bin\Debug\CSAY Estimate.pdb
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY Estimate.csprojAssemblyReference.cache
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY_Estimate.FrmMain.resources
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY_Estimate.FrmCompoundWall.resources
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY_Estimate.Properties.Resources.resources
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY Estimate.csproj.GenerateResource.cache
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY Estimate.csproj.CoreCompileInputs.cache
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY Estimate.exe
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY Estimate.pdb
+F:\AY\VS_2017\C#\CSAY Estimate\CSAY Estimate\obj\Debug\CSAY_Estimate.FrmSelectCompoundWallType.resources
